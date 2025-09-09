@@ -1,6 +1,3 @@
-Perfect 👍 Here’s a professional **README.md** for your `fraud-detection-ml` repo:
-
----
 
 # 💳 Fraud Detection with Machine Learning
 
